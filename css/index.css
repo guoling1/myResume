@@ -145,7 +145,7 @@ html {
     display: block;
     width: 4.4rem;
     margin: 0.12rem auto;
-    border-bottom: 0.01rem solid #8f9091;
+    border-bottom: 0.02rem solid #8f9091;
     opacity: 0;
 }
 
@@ -343,7 +343,7 @@ strong{
     margin-top: 0.7rem;
     display: inline-block;
     height: 6.24rem;
-    border: .01rem solid rgba(255, 255, 255, 0.341176);
+    border: .02rem solid rgba(255, 255, 255, 0.341176);
     opacity: 0;
 }
 #page3 .p1>span,#page4 .p1>span{
