@@ -11,7 +11,6 @@
 //->Swiper
 var sw = new Swiper(".swiper-container", {
     loop: true,
-    //effect : 'coverflow',
     direction: "vertical",
     onSlideChangeEnd: function (swiper) {
         var slideAry = swiper.slides,
