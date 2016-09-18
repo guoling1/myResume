@@ -561,6 +561,10 @@ b:nth-of-type(4){
     -webkit-animation: fadeIn 2s ease 1.8s 1 both;
     animation: fadeIn 2s ease 1.8s 1 both;
 }
+#page2 .p1 div:nth-of-type(7) {
+    -webkit-animation: fadeIn 2s ease 2s 1 both;
+    animation: fadeIn 2s ease 2s 1 both;
+}
 
 #page2 s,#page3 s ,#page4 s,#page5 s{
     -webkit-animation: rotate 15s linear 0.3s infinite both;
